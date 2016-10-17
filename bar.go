@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gosuri/uiprogress/util/strutil"
+	"github.com/xorpaul/uiprogress/util/strutil"
 )
 
 var (
